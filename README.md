@@ -1,2 +1,2 @@
-# LouisGT2B.github.io
- 
+# gt2
+Grad Type II
